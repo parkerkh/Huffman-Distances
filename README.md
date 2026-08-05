@@ -1,6 +1,6 @@
 # Huffman-Distances
 
-Repository to be updated with longer and more detailed proofs of Propositions 4 and 5 in [1].
+Repository to be updated with longer and more detailed proofs of Proposition 4 and Proposition 5 in [1].
 
 <p align="center">
   <img src="animations/huffman_distances_K2.gif" alt="Animation">
