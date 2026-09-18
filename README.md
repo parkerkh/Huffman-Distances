@@ -1,6 +1,6 @@
 # Huffman-Distances
 
-This repository accompanies the letter "On the Distance Properties of Huffman Sequences" [1], which studies the pairwise distances between Huffman sequences (and sequences with a fixed aperiodic autocorrelation more generally).
+This repository accompanies the letter "On the Distance Properties of Huffman Sequences" [1], which studies pairwise distances between sequences sharing a common aperiodic autocorrelation function (with an emphasis on Huffman sequences).
 
 The repository includes the following:
   1) Detailed proofs of Proposition 4 and Proposition 5 (see `proof_proposition_4.pdf` and `proof_proposition_5.pdf`).
