@@ -12,14 +12,12 @@ The repository includes the following:
 
      This polynomial exhibits similar properties to the Gonchar polynomials [2] (see `properties_of_p(z).pdf`).
      
- ---
-     
-<p align="center">
-  <img src="animations/huffman_distances_K2.gif" alt="Animation">
-</p>
+---
+
+https://github.com/user-attachments/assets/6a9157a0-03a1-43cc-9a80-cf9a4aa6102c
 
 <p align="center">
-  <b>Figure 1.</b> Pairwise distances between real-valued Huffman sequences of length $K+1=3$ as a function of $R>1$.
+  <b>Animation 1.</b> Pairwise distances between real-valued Huffman sequences of length $K+1=3$ as a function of $R>1$.
 </p>
 
 ## References
