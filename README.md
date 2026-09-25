@@ -4,13 +4,13 @@ This repository accompanies the letter "On the Distance Properties of Huffman Se
 
 The repository includes the following:
   1) Detailed proofs of Proposition 4 and Proposition 5 (see `proof_proposition_4.pdf` and `proof_proposition_5.pdf`).
-  2) A summary of properties of the polynomial from Conjecture 1:
+  2) A collection of facts about the monic polynomial
      
        $$
        p_K(z)=z^{2K}-z^{2K-1}-4z^K-z+1, \quad K\geq2.
        $$
 
-     This polynomial exhibits similar properties to the Gonchar polynomials [2] (see `properties_of_p(z).pdf`).
+     This polynomial exhibits similar properties to the Gonchar polynomials [2] (see `facts_about_p(z).pdf`).
      
 ---
 
