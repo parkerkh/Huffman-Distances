@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/6a9157a0-03a1-43cc-9a80-cf9a4aa6102c
 </p>
 
 ## References
-[1] P. Huggins, A. Şahin, and E. Erkip, "On the distance properties of Huffman sequences," *IEEE Commun. Lett.*, in preparation.
+[1] P. Huggins, A. Şahin, and E. Erkip, "On the distance properties of Huffman sequences," *IEEE Signal Process. Lett.*, under review.
 
 [2] J. Brauchart, P. Dragnev, E. Saff, and C. van de Woestijne, "A fascinating polynomial sequence arising from an electrostatics problem on the sphere," *Acta Math. Hungar.*, vol. 137, no. 1-2, pp. 10-26, Mar. 2012. Available: [https://link.springer.com/content/pdf/10.1007/s10474-012-0195-6.pdf](https://link.springer.com/content/pdf/10.1007/s10474-012-0195-6.pdf).
 
